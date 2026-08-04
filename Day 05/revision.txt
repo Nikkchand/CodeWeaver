@@ -1,0 +1,10 @@
+Q1. What is a Variable?
+--> A variable is a container which stores a value which can be use further.
+Q2. Name any five Primitive Data Types.
+--> Number,string,Undefined,Null,BigInt
+Q3. What is the difference between Number and String?
+-->A number stores numerical value and String stores alphabetical value.
+Q4. What is the purpose of the typeof operator?
+--> it is used by developer to check the type of datatypes as js is dynamically typed language.
+Q5. Difference Between Undefined and Null?
+--> Undefined datatype has no any value assigned by user, but in null user give null value to a variable.

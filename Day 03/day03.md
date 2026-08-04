@@ -92,6 +92,7 @@ A good variable name should let someone read your code and understand it WITHOUT
 
 🔮 WHY THIS MATTERS
 
+
 Every project you'll build in this program — login forms, shopping carts, weather apps, expense trackers, student management systems — starts with exactly this: variables holding data in memory.
 
 Master this today, and every future lab gets easier. 🚀
