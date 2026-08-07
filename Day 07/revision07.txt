@@ -1,0 +1,10 @@
+Q1. What is Decision Making?
+-->> It means anything that allows to decide and perform that decision
+Q2. Difference between == and ===?
+--> "==" is a normal comparision operator but "===" is strictly comparistion operator which checks value and datatype also
+Q3. Which operator returns the remainder?
+--> modulus operator (%)
+Q4. Which operators means AND and OR ?
+--> logical operator And (&&) and Or (||)
+Q5. Why Do We Need Operators?
+--> To perform arithmetical and logical calculation in programs
